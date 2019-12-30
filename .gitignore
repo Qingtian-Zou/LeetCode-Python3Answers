@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# local history
+.history/
+
+# vscodium configurations
+.vscode/
